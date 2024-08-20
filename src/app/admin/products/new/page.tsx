@@ -1,5 +1,5 @@
 import { PageHeader } from "../../_comps/pageHeader";
-import ProductForm from "./ProductForm";
+import ProductForm from "../_comps/ProductForm";
 
 export default function NewProductPage() {
     return (
